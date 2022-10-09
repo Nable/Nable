@@ -32,7 +32,7 @@
     <img
       width="256"
       align="right"
-      src="https://api.daily.dev/devcards/3cd8925ba887435fa3946f21748679a0.png?r=sp0"
+      src="https://github.com/nable/nable/blob/master/devcard.svg"
       alt="Alessandro Amoroso's Dev Card"/>
   </a>
 </div>
