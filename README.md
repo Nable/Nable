@@ -32,7 +32,7 @@
     <img
       width="256"
       align="right"
-      src="https://github.com/nable/nable/blob/master/devcard.svg"
+      src="https://github.com/Nable/Nable/blob/main/devcard.svg"
       alt="Alessandro Amoroso's Dev Card"/>
   </a>
 </div>
