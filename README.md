@@ -45,6 +45,7 @@
 - Cloud enthusiast
 - Passionate about New technology
 
+<!-- https://github.com/lowlighter/metrics -->
 ![Metrics](https://raw.githubusercontent.com/Nable/Nable/github-metrics/github-metrics.svg)
 ![Notable contributions](https://raw.githubusercontent.com/Nable/Nable/github-metrics/notable.svg)
 ![Achievements](https://raw.githubusercontent.com/omBratteng/Nable/github-metrics/achievements.svg)
