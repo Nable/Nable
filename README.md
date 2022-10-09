@@ -4,23 +4,54 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... -->
 
-<h1 align="center">Hi 👋, I'm Nable</h1>
-<h3 align="center">A passionate frontend developer from Italy</h3>
+<h1 align="center">Hi there 👋</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nable&label=Profile%20views&color=0e75b6&style=flat" alt="nable" /> </p>
+<div align="left">
+  <a href="https://twitter.com/nable84" target="blank">
+    <img align="center" 
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" 
+      alt="nable84" 
+      height="30" 
+      width="40" />
+  </a>
+  <a href="https://linkedin.com/in/aamoroso" target="blank">
+    <img align="center" 
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
+      alt="aamoroso" 
+      height="30" 
+      width="40" />
+  </a>
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=nable&label=Profile%20views&color=0e75b6&style=flat" alt="nable" /> </p>
+  <a href="https://app.daily.dev/Nable" target="_blank">
+    <img
+      width="256"
+      align="right"
+      src="https://api.daily.dev/devcards/3cd8925ba887435fa3946f21748679a0.png?r=sp0"
+      alt="Alessandro Amoroso's Dev Card"/>
+  </a>
+</div>
+
+## I am Alessandro Amoroso
+
+- ITC Consultant at [Atos Italia S.p.A.](https://www.atos.net/)
+- Loves a freshly brewed cup of coffee
+
+![Metrics](https://raw.githubusercontent.com/Nable/Nable/github-metrics/github-metrics.svg)
+![Notable contributions](https://raw.githubusercontent.com/Nable/Nable/github-metrics/notable.svg)
+![Achievements](https://raw.githubusercontent.com/omBratteng/Nable/github-metrics/achievements.svg)
+
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nable" alt="nable" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/nable84" target="blank"><img src="https://img.shields.io/twitter/follow/nable84?logo=twitter&style=for-the-badge" alt="nable84" /></a> </p>
+
 
 - 🌱 I’m currently learning **AWS DevOps, Google Cloud**
 
 - 💬 Ask me about **Java, Springboot**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/nable84" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nable84" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/aamoroso" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aamoroso" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
