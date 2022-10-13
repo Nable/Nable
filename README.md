@@ -52,6 +52,15 @@
 
 ### My Badges
 <!--START_SECTION:badges-->
+[![Microsoft Certified: Azure Fundamentals](https://images.credly.com/size/110x110/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png)](http://www.credly.com/badges/fe1fc8f5-fa8b-4e56-9a75-7a4b22f94157 "Microsoft Certified: Azure Fundamentals")
+[![Well-Architected Proficient](https://images.credly.com/size/110x110/images/b870667f-00a3-48d7-b988-9c02b441b883/image.png)](http://www.credly.com/badges/678050e2-cd2b-4d49-95cd-6732c7c46a05 "Well-Architected Proficient")
+[![Docker Essentials: A Developer Introduction](https://images.credly.com/size/110x110/images/08216781-93cb-4ba1-8110-8eb3401fa8ce/Docker_Essentials_-_ISDN.png)](http://www.credly.com/badges/f96b0f38-8c98-4b82-8d1f-95f84eb78911 "Docker Essentials: A Developer Introduction")
+[![AWS Partner: Accreditation (Technical)](https://images.credly.com/size/110x110/images/81f903ed-c3a1-4f4b-afcd-e03331a5b12c/image.png)](http://www.credly.com/badges/b323d4e5-dd85-4623-8777-1ab6bc7b3d9f "AWS Partner: Accreditation (Technical)")
+[![AWS Certified Developer – Associate](https://images.credly.com/size/110x110/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png)](http://www.credly.com/badges/f0823d7c-70df-41dd-8d71-593194963a89 "AWS Certified Developer – Associate")
+[![Oracle Certified Expert, Java EE 6 Web Services Developer](https://images.credly.com/size/110x110/images/972c1b51-c047-49fd-8bf8-5c11e43d4e33/Oracle-Certification-badge_OC-CertifiedExpert.png)](http://www.credly.com/badges/a86f25d5-298e-444c-ad38-ff7b5d7998e1 "Oracle Certified Expert, Java EE 6 Web Services Developer")
+[![Oracle Database 11g Administrator Certified Associate](https://images.credly.com/size/110x110/images/669408ac-d4de-48d8-8af4-2fea8914ea89/Oracle-Certification-badge_OC-Associate600X600.png)](http://www.credly.com/badges/0385b153-2ce1-4eae-906f-6c916167f065 "Oracle Database 11g Administrator Certified Associate")
+[![Oracle Certified Professional, Java SE 6 Programmer](https://images.credly.com/size/110x110/images/8271b3d7-090a-42ec-9b84-d4f845698abd/Oracle-Certification-badge_OC-Professional600X600.png)](http://www.credly.com/badges/8137adca-77af-4df0-a778-e33f416e57f5 "Oracle Certified Professional, Java SE 6 Programmer")
+[![Oracle Certified Expert, Java EE 6 Enterprise JavaBeans Developer](https://images.credly.com/size/110x110/images/48644b92-3bef-42c5-be2e-655d2dbddc00/Oracle-Certification-badge_OC-CertifiedExpert.png)](http://www.credly.com/badges/bd9358c9-d3da-4a16-91f9-0a193ddd6a58 "Oracle Certified Expert, Java EE 6 Enterprise JavaBeans Developer")
 <!--END_SECTION:badges-->
 
 ### Things I code with
