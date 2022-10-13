@@ -50,6 +50,9 @@
 ![Notable contributions](https://raw.githubusercontent.com/Nable/Nable/github-metrics/notable.svg)
 ![Achievements](https://raw.githubusercontent.com/omBratteng/Nable/github-metrics/achievements.svg)
 
+### My Badges
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
 
 ### Things I code with
 <!-- https://ileriayo.github.io/markdown-badges/ -->
