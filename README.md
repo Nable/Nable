@@ -45,11 +45,6 @@
 - Cloud enthusiast
 - Passionate about New technology
 
-<!-- https://github.com/lowlighter/metrics -->
-![Metrics](https://raw.githubusercontent.com/Nable/Nable/github-metrics/github-metrics.svg)
-![Notable contributions](https://raw.githubusercontent.com/Nable/Nable/github-metrics/notable.svg)
-![Achievements](https://raw.githubusercontent.com/omBratteng/Nable/github-metrics/achievements.svg)
-
 ### My Badges
 <!--START_SECTION:badges-->
 [![Microsoft Certified: Azure Fundamentals](https://images.credly.com/size/110x110/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png)](http://www.credly.com/badges/fe1fc8f5-fa8b-4e56-9a75-7a4b22f94157 "Microsoft Certified: Azure Fundamentals")
