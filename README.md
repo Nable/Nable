@@ -48,7 +48,7 @@
 ### My Badges
 <!--START_SECTION:badges-->
 [![Microsoft Certified: Azure Fundamentals](https://images.credly.com/size/110x110/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png)](http://www.credly.com/badges/fe1fc8f5-fa8b-4e56-9a75-7a4b22f94157 "Microsoft Certified: Azure Fundamentals")
-[![Well-Architected Proficient](https://images.credly.com/size/110x110/images/b870667f-00a3-48d7-b988-9c02b441b883/image.png)](http://www.credly.com/badges/428f45f6-f44f-4703-a3ac-6217fcc7853a "Well-Architected Proficient")
+[![Well-Architected Proficient](https://images.credly.com/size/110x110/images/b870667f-00a3-48d7-b988-9c02b441b883/image.png)](http://www.credly.com/badges/e1190c10-08da-4690-a10d-6121421dfc37 "Well-Architected Proficient")
 [![Docker Essentials: A Developer Introduction](https://images.credly.com/size/110x110/images/08216781-93cb-4ba1-8110-8eb3401fa8ce/Docker_Essentials_-_ISDN.png)](http://www.credly.com/badges/f96b0f38-8c98-4b82-8d1f-95f84eb78911 "Docker Essentials: A Developer Introduction")
 [![AWS Partner: Accreditation (Technical)](https://images.credly.com/size/110x110/images/81f903ed-c3a1-4f4b-afcd-e03331a5b12c/image.png)](http://www.credly.com/badges/b323d4e5-dd85-4623-8777-1ab6bc7b3d9f "AWS Partner: Accreditation (Technical)")
 [![AWS Certified Developer – Associate](https://images.credly.com/size/110x110/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png)](http://www.credly.com/badges/f0823d7c-70df-41dd-8d71-593194963a89 "AWS Certified Developer – Associate")
