@@ -39,7 +39,7 @@
 
 ## I am Alessandro Amoroso
 
-- ITC Consultant at [Atos Italia S.p.A.](https://www.atos.net/)
+- Solution Architect at [Unicredit S.p.A.](https://www.unicredit.eu/)
 - Lego Brickheadz addicted
 - Formula1 and Scuderia Ferrari addicted
 - Cloud enthusiast
