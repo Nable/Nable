@@ -47,6 +47,7 @@
 
 ### My Badges
 <!--START_SECTION:badges-->
+[![GitHub Foundations](https://images.credly.com/size/110x110/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png)](http://www.credly.com/badges/2726a430-1007-487f-b464-30f1833638ff "GitHub Foundations")
 [![Microsoft Certified: Azure Fundamentals](https://images.credly.com/size/110x110/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png)](http://www.credly.com/badges/fe1fc8f5-fa8b-4e56-9a75-7a4b22f94157 "Microsoft Certified: Azure Fundamentals")
 [![Well-Architected Proficient](https://images.credly.com/size/110x110/images/b870667f-00a3-48d7-b988-9c02b441b883/image.png)](http://www.credly.com/badges/e1190c10-08da-4690-a10d-6121421dfc37 "Well-Architected Proficient")
 [![Docker Essentials: A Developer Introduction](https://images.credly.com/size/110x110/images/08216781-93cb-4ba1-8110-8eb3401fa8ce/Docker_Essentials_-_ISDN.png)](http://www.credly.com/badges/f96b0f38-8c98-4b82-8d1f-95f84eb78911 "Docker Essentials: A Developer Introduction")
