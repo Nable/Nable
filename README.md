@@ -47,7 +47,7 @@
 
 ### My Badges
 <!--START_SECTION:badges-->
-[![Building AI Apps with MongoDB on AWS](https://images.credly.com/size/110x110/images/f1684ea6-117f-44d9-a000-e66c57a735f7/blob)](http://www.credly.com/badges/0ca0fc90-7870-433c-a8c9-9e32ccc2d60f "Building AI Apps with MongoDB on AWS")
+[![Building AI Apps with MongoDB on AWS](https://images.credly.com/size/110x110/images/f741f439-557b-4a5a-a48b-4be7fa67fe2d/blob)](http://www.credly.com/badges/0ca0fc90-7870-433c-a8c9-9e32ccc2d60f "Building AI Apps with MongoDB on AWS")
 [![GitHub Foundations](https://images.credly.com/size/110x110/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png)](http://www.credly.com/badges/2726a430-1007-487f-b464-30f1833638ff "GitHub Foundations")
 [![Microsoft Certified: Azure Fundamentals](https://images.credly.com/size/110x110/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png)](http://www.credly.com/badges/fe1fc8f5-fa8b-4e56-9a75-7a4b22f94157 "Microsoft Certified: Azure Fundamentals")
 [![Well-Architected Proficient](https://images.credly.com/size/110x110/images/b870667f-00a3-48d7-b988-9c02b441b883/image.png)](http://www.credly.com/badges/e1190c10-08da-4690-a10d-6121421dfc37 "Well-Architected Proficient")
